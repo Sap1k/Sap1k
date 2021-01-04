@@ -1,5 +1,7 @@
 ### Hi there 👋
+#### I mostly focus on maintaining Android Custom ROMs, but I like to venture out every once in a while :)
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Sap1k)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Sap1k/Sap1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

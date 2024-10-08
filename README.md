@@ -1,16 +1,18 @@
 ### Hi there 👋
-#### I mostly focus on maintaining Android Custom ROMs, but I like to venture out every once in a while :)
+#### I mostly focus all sorts of opendata-related projects, and I sometimes venture into maintaining Android Custom ROMs or other various projects :)
 
 ⚡Languages I can actually write code in
 - Python
-- C++
+- C, C++
+- C# .NET
 - Visual Basic for Applications
 - Bash
 
 🌱 How do I spend my free time?
-- At school
+- At Uni
+- Working on my own projects
 - At work writing VBA code and bashing my head against the wall because of 20 year old Excel spreadsheets
-- Hanging out with my friends IRL now that COVID is practically gone
+- Hanging out with my friends IRL
 - And of course, I can't forget Android, which has been eating up my time in some way, shape or form since 2018 :)
 
 🔭 My GitHub stats

@@ -1,7 +1,7 @@
 ### Hi there 👋
-#### I mostly focus all sorts of opendata-related projects, and I sometimes venture into maintaining Android Custom ROMs or other various projects :)
+#### I mostly program profesionally nowadays, however the rest of my time is spent on various opendata (and often transit related) projects 🚌
 
-⚡Languages I can actually write code in
+⚡Languages I can actually write code in (without AI, that is)
 - Python
 - C, C++
 - C# .NET
@@ -11,9 +11,9 @@
 🌱 How do I spend my free time?
 - At Uni
 - Working on my own projects
-- At work writing VBA code and bashing my head against the wall because of 20 year old Excel spreadsheets
+- At work writing mainly C# .NET 8+, and Python (FastAPI), or random PowerShell scripts which make me slowly go insane
 - Hanging out with my friends IRL
-- And of course, I can't forget Android, which has been eating up my time in some way, shape or form since 2018 :)
+- Walking around in nature, trying not to lose my sanity through all this 😃
 
 🔭 My GitHub stats
 
